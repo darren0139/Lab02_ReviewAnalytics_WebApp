@@ -12,4 +12,6 @@ venv/
 .venv/
 
 # database
-.db
+*.db
+*.sqlite
+*.sqlite3
